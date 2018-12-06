@@ -6,7 +6,7 @@
 
 ## 前言
 
-本仓库是 「黑马程序员SpringMVC+MyBatis」学习课程笔记和代码记录
+本仓库是 「SpringMVC+MyBatis」学习课程笔记和代码记录
 
 
 
